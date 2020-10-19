@@ -1,0 +1,17 @@
+.contact-icon-style{
+    color: #f8f9fa;
+    font-size: 68px;
+    padding: 9px;
+    border-radius: 50%;
+    background-color: #007bff;
+    height: 70%;
+}
+
+.contact-phone-icon-style{
+    color: #f8f9fa;
+    font-size: 52px;
+    padding: 12px;
+    border-radius: 50%;
+    background-color: #007bff;
+    height: 70%;
+}
